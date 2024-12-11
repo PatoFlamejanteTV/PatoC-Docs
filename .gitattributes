@@ -1,1 +1,2 @@
-*.* linguist-detectable=true
+*.md linguist-detectable=true
+*.toml linguist-detectable=true
