@@ -3,4 +3,4 @@
 [Introduction](README.md)
 
 - [Why?](why.md)
-- - [How?](how.md)
+- [How?](how.md)
